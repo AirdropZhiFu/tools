@@ -1,0 +1,21 @@
+{
+  "name": "metamask-wallet-generator",
+  "version": "1.0.0",
+  "description": "批量生成MetaMask钱包工具",
+  "main": "batch_register_metamask_wallets.js",
+  "scripts": {
+    "start": "node batch_register_metamask_wallets.js"
+  },
+  "keywords": [
+    "metamask",
+    "ethereum",
+    "wallet",
+    "generator"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "fs": "0.0.1-security"
+  }
+} 
